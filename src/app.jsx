@@ -4,7 +4,7 @@ import Game from './components/game';
 
 const App = () => {
     return(
-        <div>
+        <div className='app'>
             <h1>Tic Tac Toe</h1>
             <Game />
         </div>
